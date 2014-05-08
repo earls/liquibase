@@ -1,17 +1,15 @@
 {
-    "name": "alcaeus/liquibase",
-    "description": "Composer package to provide liquibase integration",
+    "name": "earls/liquibase",
+    "description": "fork of alcaeus/liquibase",
     "type": "library",
     "keywords": [
         "liquibase",
         "database"
     ],
-    "homepage": "https://github.com/alcaeus/liquibase",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Andreas B.",
-            "email": "alcaeus@alcaeus.org",
+            "name": "Earls",
             "role": "lead"
         }
     ],
