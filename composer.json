@@ -18,6 +18,8 @@
     "suggest": {
     },
     "bin": [
-        "liquibase"
+        "liquibase_dev",
+        "liquibase_prod"
+
     ]
 }
