@@ -20,7 +20,7 @@
     "bin": [
         "liquibase",
         "liquibase_dev",
-        "liquibase_prod"
-
+        "liquibase_prod",
+        "liquibase_stag"
     ]
 }
